@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "454488111099",
+    "project_id": "ticketi",
+    "storage_bucket": "ticketi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:454488111099:android:56fcd09bd25452a01ffd5e",
+        "android_client_info": {
+          "package_name": "com.ticketi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "454488111099-je8dgs1os64djoohjdjolq9cuf9pr0m7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqmxd_4s_gKpDaRpyJ_tcZYyF8s-7pYgI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "454488111099-je8dgs1os64djoohjdjolq9cuf9pr0m7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

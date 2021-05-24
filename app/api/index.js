@@ -1,0 +1,95 @@
+export const _swipe = [
+	{
+		id: 1,
+		name: 'yusuf',
+		imageURI: require('../assets/images/TopGun.jpg'),
+		trending: 1,
+	},
+	{
+		id: 2,
+		name: 'mashood',
+		imageURI: require('../assets/images/FastFurious9.jpg'),
+		trending: 2,
+	},
+	{
+		id: 3,
+		name: 'shamsudeen',
+		imageURI: require('../assets/images/Tenet.jpg'),
+		trending: 3,
+	},
+	{
+		id: 4,
+		name: 'yusuf',
+		imageURI: require('../assets/images/TopGun.jpg'),
+		trending: 4,
+	},
+	{
+		id: 5,
+		name: 'mashood',
+		imageURI: require('../assets/images/FastFurious9.jpg'),
+		trending: 5,
+	},
+	{
+		id: 6,
+		name: 'shamsudeen',
+		imageURI: require('../assets/images/Tenet.jpg'),
+		trending: 6,
+	},
+];
+
+export const _genreList = [
+	{ id: 1, name: 'Action' },
+	{ id: 2, name: 'Adventure' },
+	{ id: 3, name: 'Thriller' },
+	{ id: 4, name: 'Comedy' },
+	{ id: 5, name: 'Award-Winning' },
+	{ id: 6, name: 'Horror' },
+	{ id: 7, name: 'Kids' },
+	{ id: 8, name: 'Adult' },
+	{ id: 9, name: 'Documentary' },
+	{ id: 10, name: 'Classics' },
+];
+
+export const _seat = [
+	{ id: 1, booked: true, selected: false },
+	{ id: 2, booked: false, selected: false },
+	{ id: 3, booked: false, selected: false },
+	{ id: 4, booked: false, selected: false },
+	{ id: 5, booked: false, selected: false },
+	{ id: 6, booked: false, selected: false },
+	{ id: 7, booked: false, selected: false },
+	{ id: 8, booked: false, selected: false },
+	{ id: 9, booked: false, selected: false },
+	{ id: 10, booked: true, selected: false },
+	{ id: 11, booked: true, selected: false },
+	{ id: 12, booked: false, selected: false },
+	{ id: 13, booked: false, selected: false },
+	{ id: 14, booked: true, selected: false },
+	{ id: 15, booked: false, selected: false },
+	{ id: 16, booked: false, selected: false },
+	{ id: 17, booked: false, selected: false },
+	{ id: 18, booked: false, selected: false },
+	{ id: 19, booked: false, selected: false },
+	{ id: 20, booked: true, selected: false },
+	{ id: 21, booked: false, selected: false },
+	{ id: 22, booked: false, selected: false },
+	{ id: 23, booked: false, selected: false },
+	{ id: 24, booked: false, selected: false },
+	{ id: 25, booked: false, selected: false },
+	{ id: 26, booked: false, selected: false },
+	{ id: 27, booked: false, selected: false },
+	{ id: 28, booked: true, selected: false },
+	{ id: 29, booked: false, selected: false },
+	{ id: 30, booked: false, selected: false },
+	{ id: 31, booked: false, selected: false },
+	{ id: 32, booked: false, selected: false },
+];
+
+export const _movieList = [
+	{
+		id: '0',
+		title: '',
+		genre: [],
+		rating: '7.4',
+	},
+];
